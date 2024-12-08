@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="timer_done">Time\'s up!</string>
+    <string name="null_time">00:00:00</string>
+    <string name="resume">Resume</string>
+    <string name="start">  Start  </string>
+    <string name="input_time">Input time:</string>
+    <string name="hh_mm_ss">HH:MM:SS</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="time_not_input">Time not input!</string>
+</resources>
